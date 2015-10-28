@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.canva.com/design/DABexus4u-4/E6Q4weYgdW2rv2b1VweBIA/edit'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Kathy Burke Content Strategist ideamarketing.us 202 Governnment Street Mobile AL 36602 251 421-0108 kathy@ideamarketing.us
-datePublished: '2015-10-28T20:34:47.392Z'
-dateModified: '2015-10-28T20:34:06.081Z'
+datePublished: '2015-10-28T22:46:13.424Z'
+dateModified: '2015-10-28T22:45:57.631Z'
 author: []
 related: []
 app_links: []

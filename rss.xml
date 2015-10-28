@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[ideatrix.com]]></title>
         <description><![CDATA[ideatrix.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ideatrix-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 28 Oct 2015 19:23:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 28 Oct 2015 19:24:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ideatrix-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.gratisography.com/pictures/231_1.jpg">]]></description>
-            <link>undefined7fb90afc-7a17-4ef1-a2b0-5e7d9923e3c4/index.html</link>
+            <link>https://thegrid.ai/ideatrix-com/7fb90afc-7a17-4ef1-a2b0-5e7d9923e3c4/index.html</link>
             <guid isPermaLink="false">7fb90afc-7a17-4ef1-a2b0-5e7d9923e3c4</guid>
-            <pubDate>Wed, 28 Oct 2015 19:22:55 GMT</pubDate>
+            <pubDate>Wed, 28 Oct 2015 19:24:14 GMT</pubDate>
         </item>
     </channel>
 </rss>

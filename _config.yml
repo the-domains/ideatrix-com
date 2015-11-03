@@ -1,29 +1,41 @@
-name: ideatrix.com
-favicon: null
-layout_spectrum: 0.9848
-typography_spectrum: 0.4727681882213801
 title: Strategic Idea Marketing
 cta:
-  domain: null
-  bucket: null
   version: null
+  bucket: null
+  domain: null
+layout_spectrum: 0.8979764
+favicon: null
+name: ideatrix.com
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  brandColors:
-    - '#5377ab'
-    - '#080904'
-    - '#b7b8bd'
-    - '#f2c601'
-    - '#444614'
-  brandStrength: 0.25
+  brandStrength: 0.7124789
   lightness: 0.5526776036713272
   saturation: 0.8487576523330063
   rhythmicContrast: 0.7262143711559474
-purpose: []
+  brandColors:
+    - '#000000'
+    - '#FFFFFF'
+    - '#656E4B'
+    - '#9A8887'
+    - '#E95389'
+typography_spectrum: 0.7647555

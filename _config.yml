@@ -1,20 +1,8 @@
-title: Strategic Idea Marketing
-cta:
-  version: null
-  bucket: null
-  domain: null
-layout_spectrum: 0.8979764
+name: ideatrix
 favicon: null
-name: ideatrix.com
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+layout_spectrum: 0.8979764
+typography_spectrum: 0.7647555
+title: Ideas
 collections:
   - index:
       navigable: true
@@ -27,15 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.7124789
-  lightness: 0.5526776036713272
-  saturation: 0.8487576523330063
-  rhythmicContrast: 0.7262143711559474
   brandColors:
     - '#000000'
     - '#FFFFFF'
     - '#656E4B'
     - '#9A8887'
     - '#E95389'
-typography_spectrum: 0.7647555
+  brandStrength: 0.7124789
+  lightness: 0.5526776036713272
+  saturation: 0.8487576523330063
+  rhythmicContrast: 0.7262143711559474
+purpose: []
